@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tohodog:QSHttp:1.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93d50140131448c3e6f6f8bb44d34441/jetified-QSHttp-1.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/93d50140131448c3e6f6f8bb44d34441/jetified-QSHttp-1.5.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tohodog/QSHttp/1.5.0/35508adc98b5bee5a7288e9e00cd01dcf07414b2/QSHttp-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
